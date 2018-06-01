@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "194262056698",
+    "firebase_url": "https://fir-app-f1146.firebaseio.com",
+    "project_id": "fir-app-f1146",
+    "storage_bucket": "fir-app-f1146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194262056698:android:7fda6e7db0832a16",
+        "android_client_info": {
+          "package_name": "cayhualla.com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194262056698-fc2btsooapsph6ofjepp8a3se31cjbtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cayhualla.com.firebaseapp",
+            "certificate_hash": "5a67bfc4c6464fca94186e9f479944139fd95728"
+          }
+        },
+        {
+          "client_id": "194262056698-qvcqj60hade23mnr0p3c9c1a1vdk5ps2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqnqltMM8e341D83KNA8RWraxrSflh5LM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194262056698-qvcqj60hade23mnr0p3c9c1a1vdk5ps2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
